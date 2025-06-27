@@ -1,1 +1,3 @@
 # Identifying-nationality-emotion-from-images
+In this project, first with the help of UTKFace dataset I trained model for age and nationality detection. For emotion detection I used FER 2013 dataset. Accordingly, for US nationality : predicted emotions,age; African : emotions,dress color; Indian : emotions,age & Dress color; Others: just emotions & nationality. For Dress Color, I used simple KNN clustering on the bottom part of the image assuming maximum color to be identified there.
+Additional resources link --> https://drive.google.com/drive/folders/1yacYnwgJ9ntNgKvgelHsv7fk6IGZjJnK?usp=sharing
