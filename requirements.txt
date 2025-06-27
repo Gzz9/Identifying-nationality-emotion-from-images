@@ -1,0 +1,5 @@
+tensorflow>=2.8
+opencv-python
+scikit-learn
+Pillow
+tk
